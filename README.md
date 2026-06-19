@@ -1,14 +1,14 @@
-# Meu Primeiro Projeto
+# Primeiro Repositório
 
-Olá! Me chamo Daniel Batista 👋  
-Estou estudando Análise e Desenvolvimento de Sistemas.
+Este é meu primeiro repositório no GitHub.
 
-## 🚀 Objetivo
-Aprender programação e conseguir minha primeira vaga em TI.
+Estou aprendendo a usar Git e GitHub para versionamento de código.
 
-## 🛠️ Tecnologias
-- Em aprendizado (C, lógica de programação)
+## Tecnologias
+- Git
+- GitHub
 
-## 📫 Contato
+## Objetivo
+Praticar criação de repositórios e commits.
 - LinkedIn: Daniel Batista
 danielbatista1298@gmail.com
